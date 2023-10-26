@@ -145,7 +145,7 @@ const Team = () => {
                         src="https://i2.wp.com/ivbm37.ru/wp-content/uploads/2021/02/3-14.jpg"
                         alt=""
                       />
-                      <h5 class="mb-0">Abd-Elhady Mohamed</h5>
+                      <h5 class="mb-0">Abdelhady Mohammed</h5>
                       <small>Engineer</small>
                       <div class="d-flex justify-content-center mt-3">
                         <a

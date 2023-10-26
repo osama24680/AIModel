@@ -142,7 +142,7 @@ const Team = () => {
                     <div class="team-item bg-white text-center rounded p-4 pt-0">
                       <img
                         class="img-fluid rounded-circle p-4"
-                        src="https://i2.wp.com/ivbm37.ru/wp-content/uploads/2021/02/3-14.jpg"
+                        src="https://osama24680.github.io/saif_restaurant/images/abdelhady.jpg"
                         alt=""
                       />
                       <h5 class="mb-0">Abdelhady Mohammed</h5>

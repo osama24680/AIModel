@@ -18,7 +18,7 @@ const Services = () => {
               our project aims to revolutionize human-computer interaction and
               set new standards in eye gaze detection
             </p>
-            <a class="btn btn-primary rounded-pill px-4" href="">
+            <a class="btn btn-primary rounded-pill px-4" href="#hero">
               Read More
             </a>
           </div>
@@ -41,7 +41,7 @@ const Services = () => {
                         detection, making it a valuable tool for applications
                         like facial recognition and biometric security.
                       </p>
-                      <a class="btn px-3 mt-auto mx-auto" href="">
+                      <a class="btn px-3 mt-auto mx-auto" href="#hero">
                         Read More
                       </a>
                     </div>
@@ -62,7 +62,7 @@ const Services = () => {
                         by leveraging the latest advancements in deep learning
                         and neural networks.
                       </p>
-                      <a class="btn px-3 mt-auto mx-auto" href="">
+                      <a class="btn px-3 mt-auto mx-auto" href="#hero">
                         Read More
                       </a>
                     </div>
@@ -95,7 +95,7 @@ const Services = () => {
                         and natural interfaces.
                       </p>
 
-                      <a class="btn px-3 mt-auto mx-auto" href="">
+                      <a class="btn px-3 mt-auto mx-auto" href="#hero">
                         Read More
                       </a>
                     </div>
@@ -114,7 +114,7 @@ const Services = () => {
                         and miniaturization of hardware. Identify any emerging
                         trends or innovations that could disrupt the market.
                       </p>
-                      <a class="btn px-3 mt-auto mx-auto" href="">
+                      <a class="btn px-3 mt-auto mx-auto" href="#hero">
                         Read More
                       </a>
                     </div>

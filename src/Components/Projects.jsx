@@ -17,7 +17,7 @@ const Projects = () => {
           <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
             <div class="case-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid" src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/project-1.jpg" alt="" />
-              <a class="case-overlay text-decoration-none" href="">
+              <a class="case-overlay text-decoration-none" href="#hero">
                 <small>Robotic Automation</small>
                 <h5 class="lh-base text-white mb-3">
                   Lorem elitr magna stet eirmod labore amet labore clita
@@ -29,7 +29,7 @@ const Projects = () => {
           <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
             <div class="case-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid" src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/project-2.jpg" alt="" />
-              <a class="case-overlay text-decoration-none" href="">
+              <a class="case-overlay text-decoration-none" href="#hero">
                 <small>Machine learning</small>
                 <h5 class="lh-base text-white mb-3">
                   Lorem elitr magna stet eirmod labore amet labore clita
@@ -41,7 +41,7 @@ const Projects = () => {
           <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s">
             <div class="case-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid" src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/project-3.jpg" alt="" />
-              <a class="case-overlay text-decoration-none" href="">
+              <a class="case-overlay text-decoration-none" href="#hero">
                 <small>Eye Detection</small>
                 <h5 class="lh-base text-white mb-3">
                   Lorem elitr magna stet eirmod labore amet labore clita

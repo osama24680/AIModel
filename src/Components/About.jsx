@@ -64,19 +64,19 @@ const About = () => {
               </div>
             </div>
             <div class="d-flex align-items-center mt-4">
-              <a class="btn btn-primary rounded-pill px-4 me-3" href="">
+              <a class="btn btn-primary rounded-pill px-4 me-3" href="#hero">
                 Read More
               </a>
-              <a class="btn btn-outline-primary  me-3 " href="">
+              <a class="btn btn-outline-primary  me-3 " href="#hero">
                 <BiLogoFacebook />
               </a>
-              <a class="btn btn-outline-primary  me-3" href="">
+              <a class="btn btn-outline-primary  me-3" href="#hero">
                 <AiOutlineTwitter />
               </a>
-              <a class="btn btn-outline-primary  me-3" href="">
+              <a class="btn btn-outline-primary  me-3" href="#hero">
                 <AiOutlineInstagram />
               </a>
-              <a class="btn btn-outline-primary " href="">
+              <a class="btn btn-outline-primary " href="#hero">
                 <BiLogoLinkedin />
               </a>
             </div>

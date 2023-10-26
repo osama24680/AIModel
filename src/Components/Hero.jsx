@@ -20,13 +20,13 @@ const Hero = () => {
               conditions.
             </p>
             <a
-              href=""
+              href="#hero"
               class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInRight"
             >
               Read More
             </a>
             <a
-              href=""
+              href="#hero"
               class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill animated slideInRight"
             >
               Contact Us

@@ -15,7 +15,7 @@ const Team = () => {
               Our team is composed of seasoned professionals who bring a wealth
               of expertise and knowledge to every project.
             </p>
-            <a class="btn btn-primary rounded-pill px-4" href="">
+            <a class="btn btn-primary rounded-pill px-4" href="#hero">
               Read More
             </a>
           </div>
@@ -35,25 +35,25 @@ const Team = () => {
                       <div class="d-flex justify-content-center mt-3">
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoFacebook class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineTwitter class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineInstagram class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoLinkedin class="centerElement" />
                         </a>
@@ -72,25 +72,25 @@ const Team = () => {
                       <div class="d-flex justify-content-center mt-3">
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoFacebook class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineTwitter class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineInstagram class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoLinkedin class="centerElement" />
                         </a>
@@ -113,25 +113,25 @@ const Team = () => {
                       <div class="d-flex justify-content-center mt-3">
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoFacebook class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineTwitter class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineInstagram class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoLinkedin class="centerElement" />
                         </a>
@@ -150,25 +150,25 @@ const Team = () => {
                       <div class="d-flex justify-content-center mt-3">
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoFacebook class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineTwitter class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <AiOutlineInstagram class="centerElement" />
                         </a>
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
-                          href=""
+                          href="#hero"
                         >
                           <BiLogoLinkedin class="centerElement" />
                         </a>

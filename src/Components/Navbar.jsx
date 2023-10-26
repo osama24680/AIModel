@@ -7,7 +7,7 @@ const Navbar = () => {
         <nav class="navbar navbar-expand-lg navbar-dark p-0">
           <a href="index.html" class="navbar-brand">
             <h1 class="text-white">
-              AI<span class="text-dark">.</span>Tech
+              i<span class="text-dark"></span>Detect
             </h1>
           </a>
           <button

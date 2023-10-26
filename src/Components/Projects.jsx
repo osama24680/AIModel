@@ -1,5 +1,4 @@
 import React from "react";
-import {GrLinkNext} from "react-icons/gr"
 const Projects = () => {
   return (
     <div class="container-fluid bg-light py-5" id="Projects">
@@ -23,9 +22,7 @@ const Projects = () => {
                 <h5 class="lh-base text-white mb-3">
                   Lorem elitr magna stet eirmod labore amet labore clita
                 </h5>
-                <span class="arrowSVG btn btn-square btn-primary">
-                  <GrLinkNext  />
-                </span>
+                
               </a>
             </div>
           </div>
@@ -37,9 +34,7 @@ const Projects = () => {
                 <h5 class="lh-base text-white mb-3">
                   Lorem elitr magna stet eirmod labore amet labore clita
                 </h5>
-                <span class="arrowSVG btn btn-square btn-primary">
-                  <GrLinkNext  />
-                </span>
+                
               </a>
             </div>
           </div>
@@ -47,13 +42,11 @@ const Projects = () => {
             <div class="case-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid" src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/project-3.jpg" alt="" />
               <a class="case-overlay text-decoration-none" href="">
-                <small>Predictive Analysis</small>
+                <small>Eye Detection</small>
                 <h5 class="lh-base text-white mb-3">
                   Lorem elitr magna stet eirmod labore amet labore clita
                 </h5>
-                <span class="arrowSVG btn btn-square btn-primary">
-                  <GrLinkNext  class="arrowSVG"/>
-                </span>
+          
               </a>
             </div>
           </div>

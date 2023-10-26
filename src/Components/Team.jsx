@@ -12,10 +12,8 @@ const Team = () => {
             </div>
             <h1 class="mb-4">Meet Our Experienced Team Members</h1>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor
-              sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem
-              et sit, sed stet no labore lorem sit. Sanctus clita duo justo et
-              tempor eirmod magna dolore erat amet
+              Our team is composed of seasoned professionals who bring a wealth
+              of expertise and knowledge to every project.
             </p>
             <a class="btn btn-primary rounded-pill px-4" href="">
               Read More
@@ -29,11 +27,11 @@ const Team = () => {
                     <div class="team-item bg-white text-center rounded p-4 pt-0">
                       <img
                         class="img-fluid rounded-circle p-4"
-                        src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/team-1.jpg"
+                        src="https://osama24680.github.io/saif_restaurant/images/AhmedAli.jpg"
                         alt=""
                       />
-                      <h5 class="mb-0">Boris Johnson</h5>
-                      <small>Founder & CEO</small>
+                      <h5 class="mb-0">Ahmed Ali</h5>
+                      <small>Facilitator</small>
                       <div class="d-flex justify-content-center mt-3">
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
@@ -66,11 +64,11 @@ const Team = () => {
                     <div class="team-item bg-white text-center rounded p-4 pt-0">
                       <img
                         class="img-fluid rounded-circle p-4"
-                        src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/team-2.jpg"
+                        src="https://osama24680.github.io/saif_restaurant/images/Ebraheem.jpg"
                         alt=""
                       />
-                      <h5 class="mb-0">Adam Crew</h5>
-                      <small>Executive Manager</small>
+                      <h5 class="mb-0">Ibrahem Hossam</h5>
+                      <small>Engineer</small>
                       <div class="d-flex justify-content-center mt-3">
                         <a
                           class="centerElement btn btn-square btn-primary m-1"
@@ -107,23 +105,35 @@ const Team = () => {
                     <div class="team-item bg-white text-center rounded p-4 pt-0">
                       <img
                         class="img-fluid rounded-circle p-4"
-                        src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/team-3.jpg"
+                        src="https://osama24680.github.io/saif_restaurant/images/mayar.JPG"
                         alt=""
                       />
-                      <h5 class="mb-0">Kate Winslet</h5>
-                      <small>Co Founder</small>
+                      <h5 class="mb-0">Mayar Magdy</h5>
+                      <small>Engineer</small>
                       <div class="d-flex justify-content-center mt-3">
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
                           <BiLogoFacebook class="centerElement" />
                         </a>
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
-                         <AiOutlineTwitter class="centerElement" />
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
+                          <AiOutlineTwitter class="centerElement" />
                         </a>
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
-                         <AiOutlineInstagram class="centerElement" />
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
+                          <AiOutlineInstagram class="centerElement" />
                         </a>
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
-                         <BiLogoLinkedin class="centerElement" />
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
+                          <BiLogoLinkedin class="centerElement" />
                         </a>
                       </div>
                     </div>
@@ -132,23 +142,35 @@ const Team = () => {
                     <div class="team-item bg-white text-center rounded p-4 pt-0">
                       <img
                         class="img-fluid rounded-circle p-4"
-                        src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/team-4.jpg"
+                        src="https://i2.wp.com/ivbm37.ru/wp-content/uploads/2021/02/3-14.jpg"
                         alt=""
                       />
-                      <h5 class="mb-0">Cody Gardner</h5>
-                      <small>Project Manager</small>
+                      <h5 class="mb-0">Abd-Elhady Mohamed</h5>
+                      <small>Engineer</small>
                       <div class="d-flex justify-content-center mt-3">
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
                           <BiLogoFacebook class="centerElement" />
                         </a>
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
-                         <AiOutlineTwitter class="centerElement" />
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
+                          <AiOutlineTwitter class="centerElement" />
                         </a>
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
-                         <AiOutlineInstagram class="centerElement" />
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
+                          <AiOutlineInstagram class="centerElement" />
                         </a>
-                        <a class="centerElement btn btn-square btn-primary m-1" href="">
-                         <BiLogoLinkedin class="centerElement" />
+                        <a
+                          class="centerElement btn btn-square btn-primary m-1"
+                          href=""
+                        >
+                          <BiLogoLinkedin class="centerElement" />
                         </a>
                       </div>
                     </div>

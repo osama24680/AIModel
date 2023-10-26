@@ -10,12 +10,14 @@ const Hero = () => {
               AI.Tech
             </div>
             <h1 class="display-4 text-white mb-4 animated slideInRight">
-              Artificial Intelligence for Your Business
+              Artificial Intelligence for Detecting your eyes
             </h1>
             <p class="text-white mb-4 animated slideInRight">
-              Tempor rebum no at dolore lorem clita rebum rebum ipsum rebum stet
-              dolor sed justo kasd. Ut dolor sed magna dolor sea diam. Sit diam
-              sit
+              Advanced algorithms
+              to accurately detect and track eye movements in real-time. By
+              analyzing subtle changes and patterns, it can provide valuable
+              insights into eye health and assist in diagnosing various ocular
+              conditions.
             </p>
             <a
               href=""
@@ -31,8 +33,11 @@ const Hero = () => {
             </a>
           </div>
           <div class="col-lg-6 align-self-end text-center text-lg-end">
-            <img class="img-fluid" src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/hero-img.png" alt="" />
-            
+            <img
+              class="img-fluid"
+              src="https://demo.htmlcodex.com/2696/artificial-intelligence-html-template/img/hero-img.png"
+              alt=""
+            />
           </div>
         </div>
       </div>

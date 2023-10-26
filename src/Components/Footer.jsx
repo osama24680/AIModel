@@ -10,28 +10,15 @@ const Footer = () => {
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
             <a href="index.html" class="d-inline-block mb-3">
               <h1 class="text-white">
-                AI<span class="text-primary">.</span>Tech
+                i<span class="text-primary"></span>Detect
               </h1>
             </a>
-            <p class="mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor
-              sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem
-              et sit, sed stet no labore lorem sit. Sanctus clita duo justo et
-              tempor
-            </p>
           </div>
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
             <h5 class="text-white mb-4">Get In Touch</h5>
-            <p>
-             123 Street, New York, USA
-            </p>
-            <p>
-              +012 345 67890
-            </p>
-            <p>
-           info@example.com
-            </p>
-            
+            <p>Fleming, Alexandria, Egypt</p>
+
+            <p>Mayarmagdy609@gmail.com</p>
           </div>
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
             <h5 class="text-white mb-4">Popular Link</h5>

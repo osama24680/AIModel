@@ -1,7 +1,7 @@
 import React from "react";
 import { TbArrowRight } from "react-icons/tb";
-import { BiLogoFacebook,BiLogoLinkedin } from "react-icons/bi";
-import { AiOutlineTwitter,AiOutlineInstagram } from "react-icons/ai";
+import { BiLogoFacebook, BiLogoLinkedin } from "react-icons/bi";
+import { AiOutlineTwitter, AiOutlineInstagram } from "react-icons/ai";
 const About = () => {
   return (
     <div class="container-fluid py-5" id="About">
@@ -24,15 +24,10 @@ const About = () => {
               We Make Your Business Smarter with Artificial Intelligence
             </h1>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor
-              sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem
-              et sit, sed stet no labore lorem sit. Sanctus clita duo justo et
-              tempor eirmod magna dolore erat amet
-            </p>
-            <p class="mb-4">
-              Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et
-              sit, sed stet no labore lorem sit. Sanctus clita duo justo et
-              tempor.
+              We enhance your business's intelligence with cutting-edge
+              Artificial Intelligence technology, enabling us to detect and
+              analyze eyes with precision, delivering invaluable insights and
+              improving decision-making.
             </p>
             <div class="row g-3">
               <div class="col-sm-6">
@@ -79,10 +74,10 @@ const About = () => {
                 <AiOutlineTwitter />
               </a>
               <a class="btn btn-outline-primary  me-3" href="">
-              <AiOutlineInstagram />
+                <AiOutlineInstagram />
               </a>
               <a class="btn btn-outline-primary " href="">
-              <BiLogoLinkedin />
+                <BiLogoLinkedin />
               </a>
             </div>
           </div>
